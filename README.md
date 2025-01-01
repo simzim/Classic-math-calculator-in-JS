@@ -1,11 +1,11 @@
 # Classic-math-calculator-in-JS
 html + css + JS
 
-#### The task was done for RS school courses < JavaScript/Front-end >
+#### The task was completed to gain new knowledge
 _______________________________________________________________________________________
 
 #### Task description
-https://github.com/rolling-scopes-school/tasks/blob/master/tasks/calculator(LT).md
+The calculator performs mathematical operations: addition, subtraction, multiplication, division. It have a decimal point, actions with multi-digit numbers, the ability to perform several actions in a row, to clear the result. The calculator can work with both positive and negative numbers. 
 _______________________________________________________________________________________
 
 #### Deploy:
